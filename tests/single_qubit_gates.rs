@@ -1,6 +1,6 @@
 use ndarray::Array2;
 use num_complex::Complex64;
-use shrodinger::{gates, state::StateVector};
+use schrodinger::{gates, state::StateVector};
 use std::f64::consts::FRAC_1_SQRT_2;
 
 const TOL: f64 = 1e-12;

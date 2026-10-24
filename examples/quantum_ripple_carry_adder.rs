@@ -18,7 +18,7 @@
 //! The answer is read from the b register plus the final carry qubit.
 
 use rand::{rngs::StdRng, SeedableRng};
-use shrodinger::{
+use schrodinger::{
     gates::{cnot, toffoli, x},
     state::StateVector,
 };

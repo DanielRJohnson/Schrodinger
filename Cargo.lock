@@ -201,7 +201,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "shrodinger"
+name = "schrodinger"
 version = "0.1.0"
 dependencies = [
  "ndarray",

@@ -1,7 +1,7 @@
 //! This example sets up the classic quantum teleportation problem
 
 use rand::{rngs::StdRng, SeedableRng};
-use shrodinger::{
+use schrodinger::{
     gates::{cnot, h, x, z},
     state::StateVector,
 };

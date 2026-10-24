@@ -8,7 +8,7 @@
 //! ```
 
 use rand::{rngs::StdRng, SeedableRng};
-use shrodinger::{
+use schrodinger::{
     gates::{cnot, toffoli, x},
     state::StateVector,
 };

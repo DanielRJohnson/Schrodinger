@@ -1,6 +1,6 @@
 use ndarray::Array2;
 use num_complex::Complex64;
-use shrodinger::{gates, state::StateVector};
+use schrodinger::{gates, state::StateVector};
 
 const TOL: f64 = 1e-12;
 
