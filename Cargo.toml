@@ -1,0 +1,9 @@
+[package]
+name = "shrodinger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = { version = "0.17.2", features = ["rayon"] }
+num-complex = "0.4.6"
+rand = "0.10.3"
